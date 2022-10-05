@@ -33,6 +33,12 @@ ASSIGNMENT RULES
 */
 
 /*console.log(12 + 20);*/
+//or
+/*
+let a = 12
+let z = 20
+console.log(a + z);
+*/
 
 /* EXERCISE 4
  Create a variable named x and assign to it the number 12.
