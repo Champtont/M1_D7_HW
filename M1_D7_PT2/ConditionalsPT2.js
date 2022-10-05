@@ -42,7 +42,7 @@ console.log(firstAndMiddle);
  Display the result in the console.
 */
 
-let num1 = 17;
+/*let num1 = 17;
 let num2 = 4;
 let num3 = 100;
 
@@ -65,11 +65,42 @@ if (num1 > num2 && num1 > num3) {
     console.log(num3 + ", " + num2 + ", " + num1);
   }
 }
+*/
 
 /*EX 5
  Write a piece of code for finding the average of two given integers.
 */
 
+/*let x = 25;
+let y = 100;
+let c = (x + y) / 2;
+console.log(c);
+*/
+
+/*EX 6
+     Write a piece of code for finding the longest of two given strings.
+    */
+/*let something = "word";
+let something2 = "a few words";
+if (something.length > something2.length) {
+  console.log("this one is the longest");
+} else {
+  console.log("nope, it's this one");
+}
+*/
+
+/*EX 7
+     Write a piece of code for checking if a given value is a integer or not.
+    */
+/* WRITE YOUR ANSWER HERE */
+/*EX 8
+     Write a piece of code for calculating a certain percentage of a given number.
+     (Ex.: the 20% of 400 is 80)
+    */
+/* WRITE YOUR ANSWER HERE */
+/*EX 9
+     Write a piece of code for checking if a given number is even or odd.
+    */
 /* WRITE YOUR ANSWER HERE */
 
 /*EX 6
