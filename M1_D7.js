@@ -62,9 +62,11 @@ ASSIGNMENT RULES
 let name2 = "John";
 //this one will print false because they are not equal
 console.log(name1 === name2);
-//these two will print true... I placed two because I am not sure what is being asked of me.
+//these 3 will print true... I placed two because I am not sure what is being asked of me.
 console.log(name1 === "john");
-console.log(name1 !== name2);*/
+console.log(name1 !== name2);
+console.log(name1 === name2.toLowerCase());
+*/
 
 /* EXERCISE 8
  Create a variable named x, and assign to it a numeric value less than 10.
