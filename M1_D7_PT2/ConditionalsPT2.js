@@ -92,38 +92,29 @@ if (something.length > something2.length) {
 /*EX 7
      Write a piece of code for checking if a given value is a integer or not.
     */
-/* WRITE YOUR ANSWER HERE */
+/*let number = "yes";
+if (Number.isInteger(number)) {
+  console.log("this is a number");
+} else {
+  console.log("this is not a number");
+}
+*/
 /*EX 8
      Write a piece of code for calculating a certain percentage of a given number.
      (Ex.: the 20% of 400 is 80)
     */
-/* WRITE YOUR ANSWER HERE */
+/*function isWhatPercentOf(num1, num2) {
+  return (num1 / num2) * 100;
+}
+console.log(isWhatPercentOf(70, 101));
+*/
 /*EX 9
      Write a piece of code for checking if a given number is even or odd.
     */
-/* WRITE YOUR ANSWER HERE */
-
-/*EX 6
- Write a piece of code for finding the longest of two given strings.
+/*let num = 13;
+if (num % 2 === 0) {
+  console.log("number is even");
+} else {
+  console.log("number is odd");
+}
 */
-
-/* WRITE YOUR ANSWER HERE */
-
-/*EX 7
- Write a piece of code for checking if a given value is a integer or not.
-*/
-
-/* WRITE YOUR ANSWER HERE */
-
-/*EX 8
- Write a piece of code for calculating a certain percentage of a given number.
- (Ex.: the 20% of 400 is 80)
-*/
-
-/* WRITE YOUR ANSWER HERE */
-
-/*EX 9
- Write a piece of code for checking if a given number is even or odd.
-*/
-
-/* WRITE YOUR ANSWER HERE */
